@@ -9,6 +9,7 @@
 - [ ] Task 5: apply on_enter callback to set functions and line.name.
         e.g. vim.api.nvim_buf_set_lines(buf, 0, -1, false, {lines.name})
 - [ ] Task 6: add store buffer option to window.
+- [ ] Task 7: add tests?
 
 ## Notes
 - Note 1: set a keymap:
